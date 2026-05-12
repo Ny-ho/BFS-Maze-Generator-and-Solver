@@ -22,12 +22,17 @@ Visuals
 <img width="752" height="788" alt="final" src="https://github.com/user-attachments/assets/099b9d45-e386-4a1c-a2d4-c01379cd28ad" />
 
 Tech Stack
+
 Language: Python
+
 Library: Pygame
 
 Algorithms: Depth-First Search (DFS), Breadth-First Search (BFS)
 
 Usage
+
 Bash
+
 pip install pygame
+
 python main.py
