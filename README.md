@@ -3,7 +3,9 @@ A real-time BFS pathfinding visualizer built with Python and Pygame.
 
 How it Works
 Generation: Uses Randomized DFS to create a perfect maze.
+
 Chaos: Automatically breaks random walls to create multiple paths.
+
 Solving: Implements a BFS (Breadth-First Search) algorithm to find the absolute shortest path, visualizing the "frontier" search area in purple.
 
 Visuals
